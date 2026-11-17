@@ -21,12 +21,6 @@ A collection of my video editing work: short edits, motion design and videos mad
 ## Tools
 
 - DaVinci Resolve (video editing, color correction, audio)
-- Blender (3D and animation)
-- Figma (graphics and layouts)
-
-## Learning
-
-I study video, motion design and graphic design through courses on Videosmile and Skillbox.
 
 ## Repository structure
 
